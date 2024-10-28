@@ -2,15 +2,15 @@
 CarWipe Fivem - ESX
 
 
-#Locales
+# Locales
 en
 nl
 fr
 
 
-#Config
+# Config
 change it to your notify
 
 
-#fxmanifest
+# fxmanifest
 add your notify there
